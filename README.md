@@ -1,1 +1,1 @@
-# blogconfig
+# Blog
